@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SWE4202Lab09A
 {
-    public partial class Form1 : Form
+    public partial class SignUpForm : Form
     {
-        public Form1()
+        public SignUpForm()
         {
             InitializeComponent();
         }

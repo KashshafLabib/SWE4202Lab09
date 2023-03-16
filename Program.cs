@@ -16,7 +16,7 @@ namespace SWE4202Lab09A
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SignUpForm());
         }
     }
 }
