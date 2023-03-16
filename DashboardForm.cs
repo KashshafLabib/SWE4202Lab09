@@ -15,6 +15,14 @@ namespace SWE4202Lab09A
         public DashboardForm()
         {
             InitializeComponent();
+            WelcomeLabel.Text = "Welcome" + LogInFrm.lfinstance.username;
+        }
+
+        private void logoutButton_Click(object sender, EventArgs e)
+        {
+            LogInFrm lf=new LogInFrm();
+            lf.Show();
+            this.Hide();
         }
     }
 }

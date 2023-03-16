@@ -9,3 +9,5 @@ C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\De
 C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\Debug\SWE4202Lab09A.csproj.CoreCompileInputs.cache
 C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\Debug\SWE4202Lab09A.exe
 C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\Debug\SWE4202Lab09A.pdb
+C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\Debug\SWE4202Lab09A.DashboardForm.resources
+C:\Users\Kashshaf Labib\Downloads\2nd Semester\SWE 4202 Lab\SWE4202Lab09A\obj\Debug\SWE4202Lab09A.LogInFrm.resources

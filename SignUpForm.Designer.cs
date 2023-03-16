@@ -122,6 +122,7 @@
             this.signUpButton.TabIndex = 8;
             this.signUpButton.Text = "Sign Up";
             this.signUpButton.UseVisualStyleBackColor = true;
+            this.signUpButton.Click += new System.EventHandler(this.signUpButton_Click);
             // 
             // label5
             // 
@@ -144,6 +145,7 @@
             this.loginLabel.TabIndex = 10;
             this.loginLabel.TabStop = true;
             this.loginLabel.Text = "Log In";
+            this.loginLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.loginLabel_LinkClicked);
             // 
             // SignUpForm
             // 
